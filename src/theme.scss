@@ -9,3 +9,18 @@
 p {
   margin: 0;
 }
+
+tbody {
+  height: calc(100vh - 150px); // Your prefered height here
+  table-layout: fixed;
+  display: block;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}

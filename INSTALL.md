@@ -98,3 +98,27 @@ npm install --save-dev eslint-plugin-simple-import-sort
   }
 }
 ```
+
+<!--  -->
+
+# React table
+
+```bash
+npm install @tanstack/react-table
+```
+
+# Faker
+
+```bash
+npm i @faker-js/faker
+```
+
+# Xsls
+
+```bash
+npm i xlsx
+```
+
+```bash
+npm i --save-dev @types/xlsx
+```
